@@ -1,7 +1,6 @@
-import logo from "./logo.svg";
 import "./App.css";
 import * as React from "react";
-import { Button, ThemeProvider, Typography } from "@mui/material";
+import { Button, Typography } from "@mui/material";
 import { toast } from "react-toastify";
 
 function App() {
